@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import tweepy
+import tweepy # Library Used For twitter
 
 auth = tweepy.OAuthHandler('NZIjCl060lClQIcGIvQZY7Er5','FFafAZfS4PuCIBajvzmTQLU2jW140DeQsDBxhnWneEUk82TvOQ') # this is one of the tokens and secret keys to initialize the API
 
